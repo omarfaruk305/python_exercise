@@ -1,0 +1,6 @@
+0001,ali,erdem,1231
+0002,abuzittin,topşeker,1232
+0003,serenay,topuz,1233
+0004,Ünal,sekiz,1234
+0005,messi,vurma,1235
+0008,Esra,soyadi,0008
