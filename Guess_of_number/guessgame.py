@@ -35,7 +35,7 @@ while True :
     if guessnumber == "e" : 
         print('Bye')
         break
-    elif len(str(guessnumber)) != digitnumber:
+    elif len(guessnumber) != int(digitnumber):
         raise ValueError ('Please enter suitable Value ')
         continue
     for i in guessnumber:
