@@ -24,6 +24,7 @@ def checksamedigits(random_num):
             checksamedigits(random_num)
     return (random_num)
 
+#Is this really working?
 numbersdic1 = {'1':1,'2':10,'3':100,'4':1000,'5':10000}
 numbersdic2 = {'1':9,'2':99,'3':999,'4':9999,'5':99999}
 random_num = randomnumber()
